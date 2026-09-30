@@ -1,0 +1,36 @@
+{
+  "couple": {
+    "a": "我",
+    "b": "你",
+    "since": ""
+  },
+  "anniversaries": [
+    {
+      "id": "munvajkzjrei0",
+      "name": "在一起",
+      "date": "",
+      "emoji": "💑"
+    },
+    {
+      "id": "munvajkz9edyn",
+      "name": "第一次见面",
+      "date": "",
+      "emoji": "🌸"
+    }
+  ],
+  "notes": [],
+  "ledger": [],
+  "wishes": [
+    {
+      "id": "munvajkzvv5lx",
+      "text": "一起去看一次海",
+      "done": false
+    },
+    {
+      "id": "munvajkzjnedz",
+      "text": "养一只猫",
+      "done": false
+    }
+  ],
+  "photos": []
+}
